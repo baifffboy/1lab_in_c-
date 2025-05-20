@@ -1,0 +1,14 @@
+C:\Users\ilya_\source\repos\1 работа в с#\bin\Debug\1 работа в с#.exe.config
+C:\Users\ilya_\source\repos\1 работа в с#\bin\Debug\1 работа в с#.exe
+C:\Users\ilya_\source\repos\1 работа в с#\bin\Debug\1 работа в с#.pdb
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\1 работа в с#.csproj.AssemblyReference.cache
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\_1_работа_в_с_.Form1.resources
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\_1_работа_в_с_.Properties.Resources.resources
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\1 работа в с#.csproj.GenerateResource.cache
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\1 работа в с#.csproj.CoreCompileInputs.cache
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\1 работа в с#.exe
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\1 работа в с#.pdb
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\_1_работа_в_с_.Form2.resources
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\_1_работа_в_с_.Form3.resources
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\_1_работа_в_с_.Form4.resources
+C:\Users\ilya_\source\repos\1 работа в с#\obj\Debug\_1_работа_в_с_.Form5.resources
